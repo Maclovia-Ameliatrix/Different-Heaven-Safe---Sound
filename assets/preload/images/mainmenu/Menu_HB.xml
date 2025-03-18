@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_HB.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cds_select0000" x="0" y="881" width="817" height="230"/>
+	<SubTexture name="cds_select0001" x="0" y="881" width="817" height="230"/>
+	<SubTexture name="cds_select0002" x="0" y="881" width="817" height="230"/>
+	<SubTexture name="cds_select0003" x="0" y="881" width="817" height="230"/>
+	<SubTexture name="cds_select0004" x="817" y="881" width="817" height="230" frameX="0" frameY="-1" frameWidth="817" frameHeight="231"/>
+	<SubTexture name="cds_select0005" x="817" y="881" width="817" height="230" frameX="0" frameY="-1" frameWidth="817" frameHeight="231"/>
+	<SubTexture name="cds_select0006" x="817" y="881" width="817" height="230" frameX="0" frameY="-1" frameWidth="817" frameHeight="231"/>
+	<SubTexture name="credits_idle0000" x="0" y="881" width="817" height="230"/>
+	<SubTexture name="fp_select0000" x="0" y="636" width="799" height="245"/>
+	<SubTexture name="fp_select0001" x="0" y="636" width="799" height="245"/>
+	<SubTexture name="fp_select0002" x="0" y="636" width="799" height="245"/>
+	<SubTexture name="fp_select0003" x="0" y="636" width="799" height="245"/>
+	<SubTexture name="fp_select0004" x="799" y="636" width="799" height="245"/>
+	<SubTexture name="fp_select0005" x="799" y="636" width="799" height="245"/>
+	<SubTexture name="fp_select0006" x="799" y="636" width="799" height="245"/>
+	<SubTexture name="free_idle0000" x="0" y="636" width="799" height="245"/>
+	<SubTexture name="gallery_idle0000" x="1097" y="0" width="796" height="245"/>
+	<SubTexture name="glly_select0000" x="1097" y="0" width="796" height="245"/>
+	<SubTexture name="glly_select0001" x="1097" y="0" width="796" height="245"/>
+	<SubTexture name="glly_select0002" x="1097" y="0" width="796" height="245"/>
+	<SubTexture name="glly_select0003" x="1097" y="0" width="796" height="245"/>
+	<SubTexture name="glly_select0004" x="1097" y="245" width="796" height="245"/>
+	<SubTexture name="glly_select0005" x="1097" y="245" width="796" height="245"/>
+	<SubTexture name="glly_select0006" x="1097" y="245" width="796" height="245"/>
+	<SubTexture name="options_idle0000" x="0" y="1111" width="793" height="223"/>
+	<SubTexture name="ots_select0000" x="0" y="1111" width="793" height="223"/>
+	<SubTexture name="ots_select0001" x="0" y="1111" width="793" height="223"/>
+	<SubTexture name="ots_select0002" x="0" y="1111" width="793" height="223"/>
+	<SubTexture name="ots_select0003" x="0" y="1111" width="793" height="223"/>
+	<SubTexture name="ots_select0004" x="793" y="1111" width="793" height="223"/>
+	<SubTexture name="ots_select0005" x="793" y="1111" width="793" height="223"/>
+	<SubTexture name="ots_select0006" x="793" y="1111" width="793" height="223"/>
+	<SubTexture name="sm_select0000" x="0" y="0" width="1097" height="318"/>
+	<SubTexture name="sm_select0001" x="0" y="0" width="1097" height="318"/>
+	<SubTexture name="sm_select0002" x="0" y="0" width="1097" height="318"/>
+	<SubTexture name="sm_select0003" x="0" y="0" width="1097" height="318"/>
+	<SubTexture name="sm_select0004" x="0" y="318" width="1097" height="318"/>
+	<SubTexture name="sm_select0005" x="0" y="318" width="1097" height="318"/>
+	<SubTexture name="sm_select0006" x="0" y="318" width="1097" height="318"/>
+	<SubTexture name="story_idle0000" x="0" y="0" width="1097" height="318"/>
+</TextureAtlas>
