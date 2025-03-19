@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gente bg_heavenbeats.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bri idle0000" x="0" y="0" width="306" height="436" frameX="-4" frameY="-4" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0001" x="0" y="0" width="306" height="436" frameX="-4" frameY="-4" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0002" x="376" y="0" width="308" height="436" frameX="0" frameY="-4" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0003" x="376" y="0" width="308" height="436" frameX="0" frameY="-4" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0004" x="754" y="0" width="305" height="439" frameX="-3" frameY="-1" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0005" x="754" y="0" width="305" height="439" frameX="-3" frameY="-1" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0006" x="1129" y="0" width="304" height="440" frameX="-4" frameY="0" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0007" x="1129" y="0" width="304" height="440" frameX="-4" frameY="0" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0008" x="1129" y="0" width="304" height="440" frameX="-4" frameY="0" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0009" x="1129" y="0" width="304" height="440" frameX="-4" frameY="0" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0010" x="1129" y="0" width="304" height="440" frameX="-4" frameY="0" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0011" x="1129" y="0" width="304" height="440" frameX="-4" frameY="0" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0012" x="1129" y="0" width="304" height="440" frameX="-4" frameY="0" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="bri idle0013" x="1129" y="0" width="304" height="440" frameX="-4" frameY="0" frameWidth="310" frameHeight="440"/>
+	<SubTexture name="mili idle0000" x="1503" y="0" width="265" height="299" frameX="-2" frameY="-4" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0001" x="1503" y="0" width="265" height="299" frameX="-2" frameY="-4" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0002" x="0" y="510" width="264" height="302" frameX="0" frameY="-2" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0003" x="0" y="510" width="264" height="302" frameX="0" frameY="-2" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0004" x="334" y="510" width="262" height="300" frameX="-2" frameY="0" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0005" x="334" y="510" width="262" height="300" frameX="-2" frameY="0" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0006" x="666" y="510" width="261" height="300" frameX="-3" frameY="0" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0007" x="666" y="510" width="261" height="300" frameX="-3" frameY="0" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0008" x="666" y="510" width="261" height="300" frameX="-3" frameY="0" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0009" x="666" y="510" width="261" height="300" frameX="-3" frameY="0" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0010" x="666" y="510" width="261" height="300" frameX="-3" frameY="0" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0011" x="666" y="510" width="261" height="300" frameX="-3" frameY="0" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0012" x="666" y="510" width="261" height="300" frameX="-3" frameY="0" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="mili idle0013" x="666" y="510" width="261" height="300" frameX="-3" frameY="0" frameWidth="267" frameHeight="304"/>
+	<SubTexture name="sam idle0000" x="997" y="510" width="276" height="312" frameX="0" frameY="-6" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0001" x="997" y="510" width="276" height="312" frameX="0" frameY="-6" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0002" x="1343" y="510" width="279" height="308" frameX="0" frameY="-6" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0003" x="1343" y="510" width="279" height="308" frameX="0" frameY="-6" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0004" x="997" y="510" width="276" height="312" frameX="-1" frameY="-1" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0005" x="997" y="510" width="276" height="312" frameX="-1" frameY="-1" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0006" x="1692" y="510" width="275" height="312" frameX="-2" frameY="0" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0007" x="1692" y="510" width="275" height="312" frameX="-2" frameY="0" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0008" x="1692" y="510" width="275" height="312" frameX="-2" frameY="0" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0009" x="1692" y="510" width="275" height="312" frameX="-2" frameY="0" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0010" x="1692" y="510" width="275" height="312" frameX="-2" frameY="0" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0011" x="1692" y="510" width="275" height="312" frameX="-2" frameY="0" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0012" x="1692" y="510" width="275" height="312" frameX="-2" frameY="0" frameWidth="279" frameHeight="318"/>
+	<SubTexture name="sam idle0013" x="1692" y="510" width="275" height="312" frameX="-2" frameY="0" frameWidth="279" frameHeight="318"/>
+</TextureAtlas>

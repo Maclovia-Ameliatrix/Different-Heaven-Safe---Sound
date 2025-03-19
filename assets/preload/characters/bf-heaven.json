@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-22,
+				259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BFIDLE"
+		},
+		{
+			"offsets": [
+				80,
+				243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFLEFT"
+		},
+		{
+			"offsets": [
+				18,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFDOWN"
+		},
+		{
+			"offsets": [
+				6,
+				266
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFUP"
+		},
+		{
+			"offsets": [
+				-45,
+				232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boyfriend_Angles",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfh",
+	"flip_x": true,
+	"healthbar_colors": [
+		132,
+		143,
+		239
+	],
+	"camera_position": [
+		50,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

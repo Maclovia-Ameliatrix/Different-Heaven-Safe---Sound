@@ -1,0 +1,11 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Set Cam Zoom", "1.1", "5"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

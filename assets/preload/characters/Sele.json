@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [36, 369],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/waaaaaaaaaaaaaaaaaaaaaaaa",
+	"position": [50, 340],
+	"healthicon": "sele",
+	"flip_x": false,
+	"healthbar_colors": [240, 228, 255],
+	"camera_position": [100, -420],
+	"sing_duration": 4,
+	"scale": 1.3,
+	"_editor_isPlayer": false
+}

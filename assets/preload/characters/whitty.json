@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle Whitty"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whitty heaven beats",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "whitty",
+	"flip_x": false,
+	"healthbar_colors": [
+		46,
+		38,
+		38
+	],
+	"camera_position": [
+		-10,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

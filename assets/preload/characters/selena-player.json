@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				120,
+				88
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				-34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				127
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				301,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				122,
+				47
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/selena",
+	"position": [
+		160,
+		0
+	],
+	"healthicon": "sele",
+	"flip_x": false,
+	"healthbar_colors": [
+		226,
+		231,
+		237
+	],
+	"camera_position": [
+		310,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

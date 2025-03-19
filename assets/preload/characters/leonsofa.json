@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [95, 220],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [99, 221],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [99, 218],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [107, 233],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [99, 221],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [97, 221],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "leftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-15, 218],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-46, 233],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-44, 221],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rightmiss",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/leon_sofa",
+	"position": [0, 350],
+	"healthicon": "leon",
+	"flip_x": true,
+	"healthbar_colors": [50, 102, 215],
+	"camera_position": [-80, -180],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

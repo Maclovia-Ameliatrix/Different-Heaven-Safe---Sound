@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf",
-		"gfVersion": "gf",
+		"player1": "bf-heaven",
+		"gfVersion": "gf-dj",
 		"notes": [
 			{
 				"sectionBeats": 4,
@@ -10729,35 +10729,35 @@
 				"bpm": 230
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 230,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 230,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 230,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 230,
 				"changeBPM": false,
 				"mustHitSection": true
 			}
 		],
 		"events": [],
-		"player2": "dad",
+		"player2": "leon",
 		"splashSkin": "noteSplashes",
 		"song": "heaven-singer",
 		"needsVoices": true,
 		"arrowSkin": "",
-		"stage": "stage",
+		"stage": "escenario",
 		"validScore": true,
 		"bpm": 230,
-		"speed": 2.8
+		"speed": 3
 	}
 }

@@ -1,0 +1,5 @@
+Value 1: x,y
+Valor que la camara tendra
+
+Value 2: Zoom
+Valor del zoom de la camara

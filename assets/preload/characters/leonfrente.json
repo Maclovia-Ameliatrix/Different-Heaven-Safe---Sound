@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, -50],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [0, -60],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [-5, -60],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [-5, -53],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [-6, -61],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/angeles",
+	"position": [70, 20],
+	"healthicon": "leon",
+	"flip_x": false,
+	"healthbar_colors": [50, 102, 215],
+	"camera_position": [70, 120],
+	"sing_duration": 10,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

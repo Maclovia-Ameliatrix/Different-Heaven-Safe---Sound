@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whitty heaven beats.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle Whitty0000" x="5" y="5" width="357" height="705" frameX="0" frameY="-10" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0001" x="5" y="5" width="357" height="705" frameX="0" frameY="-10" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0002" x="372" y="5" width="353" height="716" frameX="0" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0003" x="372" y="5" width="353" height="716" frameX="0" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0004" x="735" y="5" width="353" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0005" x="735" y="5" width="353" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0006" x="1098" y="5" width="354" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0007" x="1098" y="5" width="354" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0008" x="1462" y="5" width="355" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0009" x="1462" y="5" width="355" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0010" x="5" y="731" width="356" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0011" x="5" y="731" width="356" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0012" x="5" y="731" width="356" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0013" x="5" y="731" width="356" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0014" x="5" y="731" width="356" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0015" x="5" y="731" width="356" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0016" x="5" y="731" width="356" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0017" x="5" y="731" width="356" height="716" frameX="-1" frameY="0" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0018" x="371" y="731" width="358" height="714" frameX="-1" frameY="-3" frameWidth="359" frameHeight="717"/>
+	<SubTexture name="Idle Whitty0019" x="371" y="731" width="358" height="714" frameX="-1" frameY="-3" frameWidth="359" frameHeight="717"/>
+</TextureAtlas>

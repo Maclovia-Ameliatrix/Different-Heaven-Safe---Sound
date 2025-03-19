@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-60
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "noah left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-76
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "noah down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-40
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "noah up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-47
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "noah right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-50
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "noah idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/noah_ass_sets",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "noah",
+	"flip_x": false,
+	"healthbar_colors": [
+		138,
+		0,
+		81
+	],
+	"camera_position": [
+		30,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

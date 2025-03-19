@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				428,
+				910
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				442,
+				907
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				427,
+				907
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				395,
+				924
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				421,
+				903
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/selebigbubba",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sele",
+	"flip_x": false,
+	"healthbar_colors": [
+		226,
+		231,
+		237
+	],
+	"camera_position": [
+		-330,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 0.4,
+	"_editor_isPlayer": false
+}
